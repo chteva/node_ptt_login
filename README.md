@@ -7,7 +7,7 @@ var auto_user = {
 name:'username',
 ps:'userpassr'
 }
------------------
+------------------
 
 #run auto login program
 
