@@ -1,0 +1,14 @@
+{
+  "name": "telnetptt",
+  "version": "1.0.0",
+  "description": "(Complete)auto connect telnet ptt login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leelighter",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.15"
+  }
+}
